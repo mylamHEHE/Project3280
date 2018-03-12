@@ -5,6 +5,7 @@
 using namespace System;
 using namespace System::Windows::Forms;
 
+
 int Main() {
 	Application::EnableVisualStyles();
 	Application::SetCompatibleTextRenderingDefault(false);
